@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;}
+#c{background-color: #E5E4E2;}
+#b{padding: 1%;background-color: #FFFFFF;}
+#d{border-color: #C38EC7;border-style: outset;}
+#a{text-align: center;padding: 2%;font-size: 250%;}
+#o{padding: 1%;font-style: italic;}
+#j{text-align: left;padding: 4%;}
+#r{text-align: right;margin-top: -12%;padding-right: 3%;}
+#p{padding: 1%; font-size: 130%;}
+#t{text-shadow: 2%;text-decoration: overline;text-decoration-color: #0000ff;text-decoration-style: solid;color: #C38EC7;font-style: italic;font-size: 300%;}
+#e{background-color: #C38EC7;padding: 1%;}
+#w{margin-top: 5%;}
+#i{padding: 2%;font-family: monospace;font-size: 150%;text-align: center;background-color: #FFFFFF;}
+#q{background-color: #000000;}
+#v{border-color: #000000;border-style: outset;font-size: 250%;background-color: #00ff00;}
+#g{border-color: #FFFFFF;border-style: outset;margin-top: 1%;width: 100%;}
+#z{width: 100%;}
+#x{width: 40%;height: 50%;color: #FFFFFF;text-align: center;}
+#ui{width: 100%;height: 40%;}
+#uy{width: 100%;height: 90%;}
+#ut{width: 100%;height: 85%;}
+#ur{width: 100%;height: 100%;}
+#uq{padding: 1%; font-family: serif;font-style: italic;font-size: 200%;}
+#uw{padding: 2%; font-family: serif;font-size: 110%;}
